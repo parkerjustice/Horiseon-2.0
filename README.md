@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon
 
 ## Purpose
 A website that is used for Search Engine Optimization, Online Reputation Management, and Social Media Marketing
