@@ -8,7 +8,7 @@ A website that is used for Search Engine Optimization, Online Reputation Managem
 * CSS
 
 ## Website
-https://parkerjustice.github.io/code_refactorproject/
+https://parkerjustice.github.io/Horiseon2.0/
 
 ## Contribution
 Made with ❤️ by Hosiseon
