@@ -8,7 +8,7 @@ A website that is used for Search Engine Optimization, Online Reputation Managem
 * CSS
 
 ## Website
-https://github.com/parkerjustice/Horiseon-2.0.git
+https://parkerjustice.github.io/Horiseon-2.0/
 
 ## Contribution
 Made with ❤️ by Hosiseon
